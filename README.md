@@ -8,6 +8,7 @@
 | [0036-valid-sudoku](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
