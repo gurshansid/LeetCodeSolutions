@@ -9,6 +9,7 @@
 | [0036-valid-sudoku](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0792-binary-search) |
 ## Greedy
