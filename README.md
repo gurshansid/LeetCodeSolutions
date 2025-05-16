@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
+| [0066-plus-one](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -84,4 +85,8 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
