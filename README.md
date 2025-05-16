@@ -24,6 +24,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0242-valid-anagram) |
+| [1904-second-largest-digit-in-a-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0125-valid-palindrome](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [1542-consecutive-characters](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1542-consecutive-characters) |
+| [1904-second-largest-digit-in-a-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
 ## Matrix
 |  |
 | ------- |
