@@ -33,6 +33,7 @@
 | [0924-fair-candy-swap](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1904-second-largest-digit-in-a-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
+| [2226-rings-and-rods](https://github.com/gurshansid/LeetCodeSolutions/tree/master/2226-rings-and-rods) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0344-reverse-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [1542-consecutive-characters](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1542-consecutive-characters) |
 | [1904-second-largest-digit-in-a-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
+| [2226-rings-and-rods](https://github.com/gurshansid/LeetCodeSolutions/tree/master/2226-rings-and-rods) |
 ## Matrix
 |  |
 | ------- |
