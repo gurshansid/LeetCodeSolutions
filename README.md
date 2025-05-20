@@ -53,6 +53,7 @@
 | [1542-consecutive-characters](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1542-consecutive-characters) |
 | [1904-second-largest-digit-in-a-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2226-rings-and-rods](https://github.com/gurshansid/LeetCodeSolutions/tree/master/2226-rings-and-rods) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/gurshansid/LeetCodeSolutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Matrix
 |  |
 | ------- |
@@ -123,4 +124,5 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/gurshansid/LeetCodeSolutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
