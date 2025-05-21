@@ -9,6 +9,7 @@
 | [0036-valid-sudoku](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -127,4 +128,8 @@
 | [0219-contains-duplicate-ii](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/gurshansid/LeetCodeSolutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/gurshansid/LeetCodeSolutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
