@@ -51,6 +51,7 @@
 | [0125-valid-palindrome](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0344-reverse-string) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1542-consecutive-characters](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1542-consecutive-characters) |
 | [1904-second-largest-digit-in-a-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2226-rings-and-rods](https://github.com/gurshansid/LeetCodeSolutions/tree/master/2226-rings-and-rods) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/gurshansid/LeetCodeSolutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/gurshansid/LeetCodeSolutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Dynamic Programming
