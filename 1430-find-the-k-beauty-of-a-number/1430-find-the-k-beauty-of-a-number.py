@@ -6,8 +6,6 @@ class Solution:
 
         for i in range(k - 1, len(numString)):
             substring = numString[l:i + 1]
-            if substring == "":
-                break
             number = int(substring)
             
             if (number != 0 and num % number == 0):
