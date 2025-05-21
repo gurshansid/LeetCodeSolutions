@@ -11,7 +11,6 @@ class Solution:
             if (number != 0 and num % number == 0):
                 result += 1
             l += 1
-        
         return result
 
 
