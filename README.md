@@ -22,6 +22,7 @@
 | [0890-lemonade-change](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0890-lemonade-change) |
 | [0924-fair-candy-swap](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1813-maximum-erasure-value](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0268-missing-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0924-fair-candy-swap](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1813-maximum-erasure-value](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [1904-second-largest-digit-in-a-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2226-rings-and-rods](https://github.com/gurshansid/LeetCodeSolutions/tree/master/2226-rings-and-rods) |
 ## Sorting
@@ -132,6 +134,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1813-maximum-erasure-value](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/gurshansid/LeetCodeSolutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/gurshansid/LeetCodeSolutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Dynamic Programming
