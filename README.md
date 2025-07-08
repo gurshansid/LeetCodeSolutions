@@ -150,6 +150,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0969-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -158,4 +159,12 @@
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0908-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
