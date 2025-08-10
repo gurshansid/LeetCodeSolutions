@@ -3,9 +3,8 @@ class Solution(object):
         s = {}
 
         for i in range(len(nums)):
-            diff = target - nums[i]
-
+            diff = target - nums[i] 
             if diff in s:
-                return s[diff], i
+                return [s[diff], i]
             else:
                 s[nums[i]] = i
