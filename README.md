@@ -128,6 +128,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Bit Manipulation
@@ -148,6 +149,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0198-house-robber) |
 ## Queue
@@ -179,4 +181,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
