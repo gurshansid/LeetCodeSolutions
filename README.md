@@ -19,6 +19,7 @@
 | [0219-contains-duplicate-ii](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0506-relative-ranks](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0890-lemonade-change) |
@@ -50,6 +51,7 @@
 | [0217-contains-duplicate](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0506-relative-ranks](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0506-relative-ranks) |
 | [0924-fair-candy-swap](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
@@ -200,5 +202,6 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
