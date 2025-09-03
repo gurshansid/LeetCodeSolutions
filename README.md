@@ -23,6 +23,7 @@
 | [0792-binary-search](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0890-lemonade-change) |
 | [0924-fair-candy-swap](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
+| [1127-last-stone-weight](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1127-last-stone-weight) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1813-maximum-erasure-value](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 ## Hash Table
@@ -196,4 +197,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
