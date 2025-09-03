@@ -21,6 +21,7 @@
 | [0268-missing-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
+| [0692-top-k-frequent-words](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0792-binary-search](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0890-lemonade-change) |
 | [0924-fair-candy-swap](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
@@ -40,6 +41,7 @@
 | [0242-valid-anagram](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0924-fair-candy-swap](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1813-maximum-erasure-value](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
@@ -52,6 +54,7 @@
 | [0242-valid-anagram](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0506-relative-ranks) |
+| [0692-top-k-frequent-words](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0924-fair-candy-swap](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
@@ -65,6 +68,7 @@
 | [0242-valid-anagram](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1542-consecutive-characters](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1542-consecutive-characters) |
 | [1904-second-largest-digit-in-a-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
@@ -167,6 +171,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 ## Linked List
 |  |
 | ------- |
@@ -203,5 +208,14 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0506-relative-ranks) |
+| [0692-top-k-frequent-words](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [1127-last-stone-weight](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1127-last-stone-weight) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
