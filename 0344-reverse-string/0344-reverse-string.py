@@ -1,14 +1,14 @@
-class Solution(object):
-    def reverseString(self, s):
+class Solution:
+    def reverseString(self, s: List[str]) -> None:
+        left = 0
         right = len(s) - 1
-        for i in range(len(s)):
-            if (i == right or i == right + 1):
-                break
-            else:
-                leftValue = s[i]
-                s[i] = s[right]
-                s[right] = leftValue
-                right -= 1
 
-        
+        while left < right:
+            lft = s[left]
+            s[left] = s[right]
+            s[right] = lft
+            left += 1
+            right -= 1
+
+
         
