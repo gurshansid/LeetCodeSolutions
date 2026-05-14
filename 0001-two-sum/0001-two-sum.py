@@ -1,10 +1,10 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        s = {}
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        hset = {}
 
         for i in range(len(nums)):
-            diff = target - nums[i] 
-            if diff in s:
-                return [s[diff], i]
+            diff = target - nums[i]
+            if diff in hset:
+                return [i, hset[diff]]
             else:
-                s[nums[i]] = i
+                hset[nums[i]] = i
