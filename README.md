@@ -20,6 +20,7 @@
 | [0238-product-of-array-except-self](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0506-relative-ranks](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
@@ -42,6 +43,7 @@
 | [0242-valid-anagram](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
@@ -145,6 +147,7 @@
 | [0066-plus-one](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Bit Manipulation
 |  |
@@ -191,6 +194,7 @@
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -239,4 +243,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
