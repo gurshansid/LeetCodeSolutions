@@ -9,7 +9,7 @@ class Solution:
         first = dummy
         second = head
 
-        while n > 0 and second:
+        while n > 0:
             second = second.next
             n -=1
         
