@@ -40,6 +40,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0242-valid-anagram) |
@@ -196,12 +197,14 @@
 | [0138-copy-list-with-random-pointer](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
@@ -257,4 +260,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
