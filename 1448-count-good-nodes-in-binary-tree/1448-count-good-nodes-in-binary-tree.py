@@ -18,6 +18,6 @@ class Solution:
             dfs(curr.left, max(maxSoFar, curr.val))
             dfs(curr.right, max(maxSoFar, curr.val))
         
-        dfs(root, float("-inf"))
+        dfs(root, root.val)
         return self.res
             
