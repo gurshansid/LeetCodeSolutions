@@ -10,12 +10,13 @@ class Solution:
             if not curr: 
                 return None
             
+            dfs(curr.left)
+            dfs(curr.right)
+            
             temp = curr.left
             curr.left = curr.right
             curr.right = temp
 
-            dfs(curr.left)
-            dfs(curr.right)
         
         dfs(root)
         return root
