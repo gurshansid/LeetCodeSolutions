@@ -1,19 +1,9 @@
 class Solution:
     def fib(self, n: int) -> int:
-        dp = {}
+        dp = [0] * (n + 2)
+        dp[1] = 1
 
-        def dfs(i):
-            if i <= 0:
-                return 0
-            
-            if i == 1:
-                return 1
-
-            
-            if i in dp:
-                return dp[i]
-            
-            dp[i] = dfs(i - 1) + dfs(i - 2)
-            return dp[i]
+        for i in range(2, n + 1, 1):
+            dp[i] = dp[i - 1] + dp[i - 2]
         
-        return dfs(n)
+        return dp[n]
