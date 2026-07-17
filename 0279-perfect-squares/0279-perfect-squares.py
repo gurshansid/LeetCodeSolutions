@@ -3,7 +3,7 @@ class Solution:
         dp = [n + 1] * (n + 1)
         dp[0] = 0
 
-        for i in range(1, n + 1):
+        for i in range(n + 1):
             square = 1
 
             while square * square <= i:
@@ -12,3 +12,4 @@ class Solution:
                 square += 1
         
         return dp[n]
+        
