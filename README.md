@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0198-house-robber) |
@@ -41,6 +42,7 @@
 | [0036-valid-sudoku](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
@@ -77,6 +79,7 @@
 | [0022-generate-parentheses](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -212,6 +215,7 @@
 | [0022-generate-parentheses](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
@@ -263,6 +267,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -284,6 +289,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
