@@ -19,6 +19,7 @@
 | [0219-contains-duplicate-ii](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -119,6 +120,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -212,6 +214,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
