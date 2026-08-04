@@ -24,6 +24,7 @@
 | [0322-coin-change](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0416-partition-equal-subset-sum](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0506-relative-ranks](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
@@ -220,6 +221,7 @@
 | [0279-perfect-squares](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Queue
@@ -326,4 +328,12 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
