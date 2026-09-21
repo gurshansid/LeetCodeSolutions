@@ -5,30 +5,30 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+    def levelOrder(self, root: TreeNode | None) -> list[list[int]]:
+        answer = []
+
         if not root:
-            return []
-            
-        queue =  deque([root])
-        res = []
+            return answer
+        
+        queue = deque([root])
 
         while queue:
             listToAdd = []
-            queueLength = len(queue)
+            levelCount = len(queue)
 
-            for i in range(queueLength):
+            for _ in range(levelCount):
                 node = queue.popleft()
+                listToAdd.append(node.val)
 
                 if node.left:
                     queue.append(node.left)
-                
                 if node.right:
                     queue.append(node.right)
 
-                listToAdd.append(node.val)
-            res.append(listToAdd)
+            answer.append(listToAdd)
+        return answer
 
-        return res
-            
+        
 
-
+        
