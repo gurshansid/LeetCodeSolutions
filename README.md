@@ -336,4 +336,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
