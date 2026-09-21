@@ -8,16 +8,17 @@ class Solution:
     def goodNodes(self, root: TreeNode) -> int:
         self.res = 0
 
-        def dfs(curr, maxSoFar):
-            if not curr:
+        def dfs(root, maxSoFar):
+            if not root:
                 return 0
             
-            if curr.val >= maxSoFar:
+            if maxSoFar <= root.val:
                 self.res += 1
             
-            dfs(curr.left, max(maxSoFar, curr.val))
-            dfs(curr.right, max(maxSoFar, curr.val))
-        
-        dfs(root, root.val)
-        return self.res
-            
+            maxSoFar = max(maxSoFar, root.val)
+
+            dfs(root.left, maxSoFar)
+            dfs(root.right, maxSoFar)
+
+        dfs(root, float("-inf"))
+        return self.res 
