@@ -333,6 +333,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -342,4 +343,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
