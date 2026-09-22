@@ -349,4 +349,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0322-coin-change) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
