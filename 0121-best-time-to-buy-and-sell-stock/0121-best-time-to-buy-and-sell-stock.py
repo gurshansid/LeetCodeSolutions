@@ -1,13 +1,16 @@
 class Solution:
-    def maxProfit(self, prices: List[int]) -> int:
-        result = 0
-        pointer = 0
+    def maxProfit(self, prices: list[int]) -> int:
+        left = 0
+        right = 0
+        answer = 0
 
-        for i in range(len(prices)):
-            if prices[i] < prices[pointer]:
-                pointer = i
-                
-            profit = prices[i] - prices[pointer]
-            result = max(result, profit)
+        while right < len(prices):
+            profit = prices[right] - prices[left]
+            answer = max(answer, profit)
+
+            if prices[right] < prices[left]:
+                left = right
+            
+            right += 1
         
-        return result
+        return answer
