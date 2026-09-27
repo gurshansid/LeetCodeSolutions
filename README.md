@@ -18,6 +18,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
@@ -179,6 +182,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0322-coin-change) |
@@ -368,4 +372,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0139-word-break) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
