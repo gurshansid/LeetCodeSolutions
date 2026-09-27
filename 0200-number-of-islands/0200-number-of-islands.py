@@ -1,32 +1,33 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
         if not grid:
-            return 0
+            return None
         
-        rows = len(grid)
-        cols = len(grid[0])
+        ROWS = len(grid)
+        COLS = len(grid[0])
         islands = 0
-        visited = set() 
+        visited = set()
+        directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
 
-        def bfs(r, c):
+        def dfs(r, c):
             queue = deque()
-            queue.append((r, c))
+            queue.append([r, c])
             visited.add((r, c))
 
             while queue:
                 row, col = queue.popleft()
-                directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
 
                 for dr, dc in directions:
                     nr, nc = row + dr, col + dc
 
-                    if (nr in range(rows) and nc in range(cols) and grid[nr][nc] == "1" and (nr, nc) not in visited):
+                    if (nr in range(ROWS) and nc in range(COLS) and grid[nr][nc] == "1" and (nr, nc) not in visited):
+                        queue.append([nr, nc])
                         visited.add((nr, nc))
-                        queue.append((nr, nc))
+            
 
-        for r in range(rows):
-            for c in range(cols):
+        for r in range(ROWS):
+            for c in range(COLS):
                 if grid[r][c] == "1" and (r, c) not in visited:
-                    bfs(r, c)
+                    dfs(r, c)
                     islands += 1
         return islands
