@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0066-plus-one) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0890-lemonade-change](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0890-lemonade-change) |
 ## Tree
@@ -241,6 +243,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
