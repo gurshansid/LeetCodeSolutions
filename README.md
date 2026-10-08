@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
+| [0053-maximum-subarray](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -238,6 +239,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -331,6 +333,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
