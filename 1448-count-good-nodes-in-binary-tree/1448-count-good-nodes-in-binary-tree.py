@@ -12,13 +12,11 @@ class Solution:
             if not root:
                 return 0
             
-            if maxSoFar <= root.val:
+            if root.val >= maxSoFar:
                 self.res += 1
             
-            maxSoFar = max(maxSoFar, root.val)
-
-            dfs(root.left, maxSoFar)
-            dfs(root.right, maxSoFar)
-
-        dfs(root, float("-inf"))
-        return self.res 
+            dfs(root.left, max(root.val, maxSoFar))
+            dfs(root.right, max(root.val, maxSoFar))
+        
+        dfs(root, root.val)
+        return self.res
