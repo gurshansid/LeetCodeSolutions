@@ -409,4 +409,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
