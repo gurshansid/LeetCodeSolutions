@@ -192,6 +192,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0743-network-delay-time) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -207,6 +208,7 @@
 | [0279-perfect-squares](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0743-network-delay-time) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -335,6 +337,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0743-network-delay-time) |
 | [1127-last-stone-weight](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1127-last-stone-weight) |
 ## Trie
 |  |
@@ -410,6 +413,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0743-network-delay-time) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -434,4 +438,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
