@@ -30,6 +30,7 @@
 | [0268-missing-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
@@ -119,6 +120,7 @@
 | [0036-valid-sudoku](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
@@ -191,6 +193,7 @@
 | [0226-invert-binary-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
@@ -209,6 +212,7 @@
 | [0226-invert-binary-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0743-network-delay-time) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -271,6 +275,7 @@
 | [0279-perfect-squares](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
@@ -323,6 +328,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -416,6 +422,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0743-network-delay-time](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0743-network-delay-time) |
 ## Binary Lifting
 |  |
@@ -437,10 +444,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Shortest Path
 |  |
 | ------- |
