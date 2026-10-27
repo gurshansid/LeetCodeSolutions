@@ -70,6 +70,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0692-top-k-frequent-words](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0924-fair-candy-swap](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
+| [0981-time-based-key-value-store](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0981-time-based-key-value-store) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1813-maximum-erasure-value](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [1904-second-largest-digit-in-a-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
@@ -108,6 +109,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0647-palindromic-substrings](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
+| [0981-time-based-key-value-store](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0981-time-based-key-value-store) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1542-consecutive-characters](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1542-consecutive-characters) |
 | [1904-second-largest-digit-in-a-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
@@ -155,6 +157,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
+| [0981-time-based-key-value-store](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0981-time-based-key-value-store) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
@@ -312,6 +315,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0535-encode-and-decode-tinyurl](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0969-number-of-recent-calls](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0969-number-of-recent-calls) |
+| [0981-time-based-key-value-store](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0981-time-based-key-value-store) |
 ## Data Stream
 |  |
 | ------- |
