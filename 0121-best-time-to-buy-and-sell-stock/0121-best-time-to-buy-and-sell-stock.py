@@ -1,16 +1,15 @@
 class Solution:
     def maxProfit(self, prices: list[int]) -> int:
         left = 0
-        right = 0
         answer = 0
 
-        while right < len(prices):
-            profit = prices[right] - prices[left]
-            answer = max(answer, profit)
+        for i in range(len(prices)):
+            totalProfit = prices[i] - prices[left]
 
-            if prices[right] < prices[left]:
-                left = right
-            
-            right += 1
+            answer = max(answer, totalProfit)
+
+            if prices[i] < prices[left]:
+                left = i
         
         return answer
+
