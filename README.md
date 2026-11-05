@@ -68,6 +68,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [0567-permutation-in-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0924-fair-candy-swap](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
 | [0981-time-based-key-value-store](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0981-time-based-key-value-store) |
@@ -107,6 +108,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [0567-permutation-in-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0692-top-k-frequent-words) |
 | [0981-time-based-key-value-store](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0981-time-based-key-value-store) |
@@ -144,6 +146,7 @@
 | [0143-reorder-list](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -255,6 +258,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/gurshansid/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1813-maximum-erasure-value](https://github.com/gurshansid/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
